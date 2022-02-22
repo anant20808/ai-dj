@@ -1,0 +1,35 @@
+.title{
+    width:100%;
+    margin-top:0;
+    font-size:30px;
+}
+.note{
+    font-size:20px;
+}
+body{
+    background-size: cover;
+}
+.logo{
+    width:150px;
+    height:150px;
+}
+.speed{
+   float:right;
+   margin:50px;
+   
+}
+.volume{
+   float:left;
+    margin:50px
+}
+#play{
+    width:100px;
+    height:50px;
+    font-size:35;
+}
+canvas{
+    box-shadow: 10px 10px 10px turquoise;
+    border-style: solid;
+    margin-top:80px
+}
+
